@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@types/node": "^14.0.5",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "is-plain-object": "^3.0.0",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
